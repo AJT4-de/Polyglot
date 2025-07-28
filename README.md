@@ -98,6 +98,3 @@ This project is for educational purposes. Please contact the repository owner fo
 
 ---
 *Built with ❤️ for multilingual communication*
-# Polyglot
-# Polyglot
-# Polyglot
